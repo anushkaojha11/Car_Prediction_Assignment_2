@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/ad0a15df3a194f3cab37c7be5572750c/artifacts
+end_time: 1757491448035
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: ad0a15df3a194f3cab37c7be5572750c
+run_name: method-mini-lr-0.01-reg-Ridge-poly-True-momentum-Momentum Used-init-zero
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491351940
+status: 3
+tags: []
+user_id: anushka

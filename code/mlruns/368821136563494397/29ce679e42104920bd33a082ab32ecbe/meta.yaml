@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/29ce679e42104920bd33a082ab32ecbe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: 29ce679e42104920bd33a082ab32ecbe
+run_name: method-mini-lr-0.1-reg-Normal-poly-True
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757422049850
+status: 1
+tags: []
+user_id: anushka

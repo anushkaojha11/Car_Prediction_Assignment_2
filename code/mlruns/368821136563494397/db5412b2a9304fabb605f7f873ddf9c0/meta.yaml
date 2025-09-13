@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/db5412b2a9304fabb605f7f873ddf9c0/artifacts
+end_time: 1757507079319
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: db5412b2a9304fabb605f7f873ddf9c0
+run_name: method-sto-lr-0.01-reg-Normal-poly-False-momentum-Momentum not used-init-xavier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506933455
+status: 3
+tags: []
+user_id: anushka

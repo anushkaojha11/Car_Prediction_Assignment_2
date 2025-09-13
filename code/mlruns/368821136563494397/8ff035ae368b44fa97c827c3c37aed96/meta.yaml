@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/8ff035ae368b44fa97c827c3c37aed96/artifacts
+end_time: 1757505533849
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: 8ff035ae368b44fa97c827c3c37aed96
+run_name: method-sto-lr-0.0001-reg-Normal-poly-True-momentum-Momentum not used-init-zero
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757505403909
+status: 3
+tags: []
+user_id: anushka

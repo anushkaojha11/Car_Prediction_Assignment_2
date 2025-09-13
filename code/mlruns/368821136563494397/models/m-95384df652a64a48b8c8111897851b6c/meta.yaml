@@ -1,0 +1,10 @@
+artifact_location: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/models/m-95384df652a64a48b8c8111897851b6c/artifacts
+creation_timestamp: 1757344250523
+experiment_id: '368821136563494397'
+last_updated_timestamp: 1757344255679
+model_id: m-95384df652a64a48b8c8111897851b6c
+model_type: null
+name: model
+source_run_id: 274c1d68b6004893bf36e06ed2955035
+status: 2
+status_message: null

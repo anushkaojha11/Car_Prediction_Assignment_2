@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/a77d10a3015e49188e1aee4e49320071/artifacts
+end_time: 1757503187439
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: a77d10a3015e49188e1aee4e49320071
+run_name: method-mini-lr-0.0001-reg-ElasticNet-poly-False-momentum-Momentum Used-init-zero
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503165852
+status: 3
+tags: []
+user_id: anushka

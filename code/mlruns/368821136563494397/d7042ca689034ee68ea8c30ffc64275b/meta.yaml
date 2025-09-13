@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/d7042ca689034ee68ea8c30ffc64275b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: d7042ca689034ee68ea8c30ffc64275b
+run_name: method-batch-lr-0.1-reg-Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757324339356
+status: 1
+tags: []
+user_id: anushka

@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/b22136be07da4cf5bc65b0d735e783a7/artifacts
+end_time: 1757428448143
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: b22136be07da4cf5bc65b0d735e783a7
+run_name: method-batch-lr-0.1-reg-ElasticNet-poly-False
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757428434506
+status: 3
+tags: []
+user_id: anushka

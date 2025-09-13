@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/b5ef3dc2a9c54761b22f1a734699fc40/artifacts
+end_time: 1757493581430
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: b5ef3dc2a9c54761b22f1a734699fc40
+run_name: method-batch-lr-0.001-reg-Ridge-poly-True-momentum-Momentum not used-init-xavier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493490044
+status: 3
+tags: []
+user_id: anushka

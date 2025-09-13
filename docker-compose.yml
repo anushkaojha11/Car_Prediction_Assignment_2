@@ -1,0 +1,37 @@
+version: "3.9"
+
+services:
+
+  car:
+    build: .
+    container_name: car_container
+    platform: linux/amd64
+    ports:
+    - "8081:8080"
+
+    volumes:
+      - .:/app
+    
+    entrypoint: ""
+  dash:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: dash-car:latest
+    platform: linux/amd64
+    ports:
+      - "8080:8080" # Dash host port
+    volumes:
+      - ./code:/root/code
+    command: python3 /root/code/app.py
+
+  mlflow:
+    build:
+      context: .
+      dockerfile: mlflow.Dockerfile
+    image: mlflow-car:latest
+    ports:
+      - "5002:5000" # MLflow host port
+    volumes:
+      - ./_mlflow:/mlflow
+    command: mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri /mlflow --default-artifact-root /mlflow

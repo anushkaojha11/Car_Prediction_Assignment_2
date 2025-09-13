@@ -1,0 +1,30 @@
+artifact_path: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/models/m-d8473b6c097e42b2a9329775e7081231/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.2
+model_id: m-d8473b6c097e42b2a9329775e7081231
+model_size_bytes: 15018
+model_uuid: m-d8473b6c097e42b2a9329775e7081231
+prompts: null
+run_id: d05688ae553c4e2cb91a29f9dfbd347c
+signature:
+  inputs: '[{"type": "double", "name": "max_power", "required": true}, {"type": "double",
+    "name": "mileage", "required": true}, {"type": "double", "name": "year", "required":
+    true}, {"type": "double", "name": "brand", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-11 06:34:31.454830'

@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/0b08ab4a951c47afb7ad8ecaa0053c8b/artifacts
+end_time: 1757493693452
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: 0b08ab4a951c47afb7ad8ecaa0053c8b
+run_name: method-batch-lr-0.01-reg-Ridge-poly-False-momentum-Momentum Used-init-zero
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493673062
+status: 3
+tags: []
+user_id: anushka

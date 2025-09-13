@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/3b05c54c259440a69ff6318e8db88918/artifacts
+end_time: 1757502806730
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: 3b05c54c259440a69ff6318e8db88918
+run_name: method-mini-lr-0.001-reg-ElasticNet-poly-True-momentum-Momentum Used-init-xavier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757502709545
+status: 3
+tags: []
+user_id: anushka

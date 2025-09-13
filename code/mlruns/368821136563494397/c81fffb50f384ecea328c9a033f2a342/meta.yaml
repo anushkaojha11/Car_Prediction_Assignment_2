@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/c81fffb50f384ecea328c9a033f2a342/artifacts
+end_time: 1757437247179
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: c81fffb50f384ecea328c9a033f2a342
+run_name: method-mini-lr-0.01-reg-Normal-poly-True-momentum-True
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757437145831
+status: 3
+tags: []
+user_id: anushka

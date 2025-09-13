@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/fbeb4639d3d640ffb5245dfa400dc73f/artifacts
+end_time: 1757425140901
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: fbeb4639d3d640ffb5245dfa400dc73f
+run_name: method-batch-lr-0.01-reg-ElasticNet
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757425062571
+status: 3
+tags: []
+user_id: anushka

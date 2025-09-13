@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/808683b2613b455b9d6fc1a640be6eb5/artifacts
+end_time: 1757498950455
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: 808683b2613b455b9d6fc1a640be6eb5
+run_name: method-batch-lr-0.01-reg-Lasso-poly-False-momentum-Momentum Used-init-zero
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757498931334
+status: 3
+tags: []
+user_id: anushka

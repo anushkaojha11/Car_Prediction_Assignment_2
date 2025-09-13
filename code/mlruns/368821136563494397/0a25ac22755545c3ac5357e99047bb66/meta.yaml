@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/0a25ac22755545c3ac5357e99047bb66/artifacts
+end_time: 1757499067686
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: 0a25ac22755545c3ac5357e99047bb66
+run_name: method-batch-lr-0.01-reg-Lasso-poly-False-momentum-Momentum not used-init-xavier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757499057341
+status: 3
+tags: []
+user_id: anushka

@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/771513300fce47c9b847991b18cc7220/artifacts
+end_time: 1757565376480
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: 771513300fce47c9b847991b18cc7220
+run_name: method-sto-lr-0.001-reg-Normal-poly-True-momentum-False-init-xavier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757565211375
+status: 3
+tags: []
+user_id: anushka

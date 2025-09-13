@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/ec55ea79cb394badb8b0c897bd2d70a9/artifacts
+end_time: 1757428159744
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: ec55ea79cb394badb8b0c897bd2d70a9
+run_name: method-batch-lr-0.1-reg-Ridge-poly-False
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757428150265
+status: 3
+tags: []
+user_id: anushka

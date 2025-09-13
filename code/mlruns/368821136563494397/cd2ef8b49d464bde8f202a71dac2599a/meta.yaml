@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/cd2ef8b49d464bde8f202a71dac2599a/artifacts
+end_time: 1757424677080
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: cd2ef8b49d464bde8f202a71dac2599a
+run_name: method-batch-lr-0.1-reg-Normal-poly-True
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757424580102
+status: 3
+tags: []
+user_id: anushka

@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/cac4876e7d5d4259a94e2e90dae7f34d/artifacts
+end_time: 1757325345137
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: cac4876e7d5d4259a94e2e90dae7f34d
+run_name: Fold-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757325345092
+status: 3
+tags: []
+user_id: anushka

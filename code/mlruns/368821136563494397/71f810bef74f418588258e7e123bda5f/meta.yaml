@@ -1,0 +1,14 @@
+artifact_uri: file:///Projects/Python-for-Machine-Learning/A2/mlruns/368821136563494397/71f810bef74f418588258e7e123bda5f/artifacts
+end_time: 1757328788749
+entry_point_name: ''
+experiment_id: '368821136563494397'
+lifecycle_stage: active
+run_id: 71f810bef74f418588258e7e123bda5f
+run_name: method-batch-lr-0.0001-reg-Lasso
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757328771610
+status: 3
+tags: []
+user_id: anushka
